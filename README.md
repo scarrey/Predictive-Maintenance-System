@@ -102,7 +102,7 @@ predictive-maintenance/
 │   └── outlier_detection.png
 │
 
-
+---
 ---
 
 ## 🎯 How It Works
