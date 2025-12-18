@@ -74,7 +74,7 @@ Open your browser and navigate to: http://localhost:8501
 predictive-maintenance/
 │
 ├── app.py                          # Streamlit dashboard application
-├── README.md                       # Project documentation
+├── requirements.txt                # Python dependencies
 ├── LICENSE                         # MIT License
 │
 ├── data/
@@ -89,8 +89,7 @@ predictive-maintenance/
 │   ├── 01_data_exploration.ipynb   # EDA and visualization
 │   ├── 02_preprocessing.ipynb      # Data cleaning and engineering
 │   └── 03_model_training.ipynb     # Model training and evaluation
-│
-        # Evaluation metrics
+│          # Evaluation metrics
 │
 ├── visualizations/
 │   ├── feature_distributions.png
@@ -101,8 +100,14 @@ predictive-maintenance/
 │   ├── feature_importance.png
 │   └── outlier_detection.png
 │
+├── reports/
+│   ├── Phase1_Report.pdf           # Initial project proposal
+│   ├── Phase2_Report.pdf           # Implementation details
+│   └── Final_Report.pdf            # Complete project report
+│
+└
+```
 
----
 ---
 
 ## 🎯 How It Works
@@ -313,12 +318,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+---
+
 ## 🙏 Acknowledgments
 
 - Dataset provided by [Kaggle](https://www.kaggle.com/)
 - Inspired by real-world industrial maintenance challenges
 - Built with open-source libraries from the amazing Python community
 
+---
+
+---
+
+
+---
+
+
+---
 
 ## 🔄 Version History
 
